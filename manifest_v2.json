@@ -109,5 +109,14 @@
       ]
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "腕读同步"
+        }
+      ]
+    }
+  }
 }
