@@ -1,0 +1,113 @@
+{
+  "item": {
+    "id": "com.wristfeed.band",
+    "restype": "quick_app",
+    "name": "腕读",
+    "description": "手环上的离线订阅阅读器：在手机的 AstroBox 里订阅，同步一次，离线慢慢看。\n\n- 订阅 RSS / Atom：配套插件「腕读同步」里有 60 多个挑好的源，分 9 类点一下就加；也能填网站地址自动找订阅，或整段导入 OPML\n- 只给摘要的文章，同步时会去原网页把全文抓回来\n- 正文保留小标题、引用、列表和配图；图片缩小后再发，可以只带封面\n- 一直往下滑就能读完一篇，不用翻页；点一下正文看时间、读到百分之几、收藏\n- 首页「接着读」，下次从上次读到的地方继续\n- 繁体自动转成简体（手环字体缺一部分繁体字），表情符号这类手环显示不了的会去掉\n- 空间不够时先清读过的旧文章，收藏的不会删\n- 文章只存在手环本机；联网的是手机上的插件，直接访问你订阅的网站，不经过开发者的服务器\n\n需要配合 AstroBox 插件「腕读同步」使用。适配小米手环 9 / 9 Pro / 10 / 10 NFC / 10 Pro / 11 / 11 NFC，同一个安装包按屏幕自适应。手环 11 在真机上验证过，其余机型在官方模拟器的对应屏幕上验证过。",
+    "preview": [
+      "media/preview1.png",
+      "media/preview2.png",
+      "media/preview3.png",
+      "media/preview4.png",
+      "media/preview5.png",
+      "media/preview6.png",
+      "media/preview7.png",
+      "media/preview8.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "Oi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "反馈问题",
+      "url": "https://github.com/Wildchiken/WristFeed_AstroBox_Release/issues",
+      "icon": "github-logo"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "0.2.0",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "0.2.0",
+          "content": "首次上架。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
