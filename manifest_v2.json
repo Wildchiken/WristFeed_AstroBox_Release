@@ -32,10 +32,14 @@
   ],
   "downloads": {
     "xmb10": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
@@ -43,10 +47,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
@@ -54,10 +62,14 @@
       ]
     },
     "xmb10p": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
@@ -65,10 +77,14 @@
       ]
     },
     "xmb11": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
@@ -76,10 +92,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
@@ -87,10 +107,14 @@
       ]
     },
     "xmb9": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
@@ -98,10 +122,14 @@
       ]
     },
     "xmb9p": {
-      "version": "0.2.0",
-      "file_name": "downloads/com.wristfeed.band.release.0.2.0.rpk",
-      "versionCode": 2,
+      "version": "0.2.1",
+      "file_name": "downloads/com.wristfeed.band.release.0.2.1.rpk",
+      "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "0.2.1",
+          "content": "修复：手环 9 上腕读的应用图标过大，图标改小了。"
+        },
         {
           "version": "0.2.0",
           "content": "首次上架。"
