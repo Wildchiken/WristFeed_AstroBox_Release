@@ -139,7 +139,7 @@
   },
   "ext": {
     "bundledResources": {
-      "recommended": [
+      "required": [
         {
           "type": "plugin",
           "id": "腕读同步"
